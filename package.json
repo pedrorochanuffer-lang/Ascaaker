@@ -1,0 +1,8 @@
+{
+  "name": "ascaaker",
+  "description": "Gere desenhos em ASCII com IA via navegador usando WebLLM, pronto pra GitHub Pages.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
